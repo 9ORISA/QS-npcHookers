@@ -103,4 +103,4 @@ This script is intended for role-playing and adult-themed servers only. The deve
 
 ---
 
-**Script Made By Qorisa **
+**Script Made By Qorisa**
