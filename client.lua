@@ -48,6 +48,8 @@ function CreateHookerPeds()
 end
 
 function AddTargetToPed(ped)
+    if IsPedAPlayer(ped) then return end
+
     local options = {}
     for _, anim in ipairs(Config.Animations) do
         table.insert(options, {
